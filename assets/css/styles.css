@@ -1,0 +1,59 @@
+body {
+    background: #ededed;
+}
+
+.table {
+    background: white;
+}
+
+.navbar-brand {
+    background: #4AAAA5;
+    color: white
+}
+
+.big-green {
+    margin-top: 20px;
+    font-family: georgia;
+    font-weight: bold;
+    font-size: 32pt;
+    color: #4AAAA5;
+    text-align: center
+}
+
+.small-green {
+    margin-top: 10px;
+    font-family: georgia;
+    font-weight: bold;
+    font-size: 18pt;
+    color: #4AAAA5;
+    text-align: center
+}
+
+.descriptive-text {
+    margin-top: 30px
+}
+
+.col-md-8 {
+    background: white
+}
+
+.col-6 {
+    background: white
+}
+
+.col-md-4 {
+    background: white
+}
+
+.col-sm-12 {
+    background: white
+}
+
+.col-12 {
+    background: white
+}
+
+.row {
+    --bs-gutter-x: 100px;
+    --bs-gutter-y: 100px;
+}
